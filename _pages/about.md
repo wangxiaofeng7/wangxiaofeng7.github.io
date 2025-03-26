@@ -29,12 +29,14 @@ For his work, Dr. Wang has received numerous awards, including Award for Outstan
 
 My research interest includes system security and AI security. I have published more than 100 papers at the top 4 security conferences with total <a href='https://scholar.google.com/citations?user=pONu-5EAAAAj'>google scholar citations <strong><span id='total_cit'>18000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=pONu-5EAAAAj'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+<!---
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+
+
+# 📝 Recent Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,18 +51,38 @@ My research interest includes system security and AI security. I have published 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2017, James H. Rudy Professorship, Indiana University
+- 2016, Best Paper Award in Applied Cyber Security Research, 3rd Place, CSAW’16 (NYU- Poly Cyber Security Awareness Week): for the work on cyber threat intelligence gathering
+- 2014, Best Paper Award in Applied Cyber Security Research, 3rd Place, CSAW’14 (NYU- Poly Cyber Security Awareness Week): for the work on security risks in Android customization
+- 2014, Third place in National Security Innovation Competition: for the work on Android secure upgrading
+- 2013, Finalist for the Best Applied Security Paper Award, CSAW’13 (NYU-Poly Cyber Security Awareness Week): for the work on dedicated hosts on malicious web infrastructures
+- 2011, PET Award for my research on Genome Privacy
+- 2011, PET Award runner-up for my research on side-channel information leaks in web applications
+- 2011, Best Practical Paper Award , the 32nd IEEE Symposium on Security and Privacy
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Teaching
+- Fall 2005~Now: I430/520/B649, “Security for Networked Systems”, An upper-level undergraduate and graduate course, IUB
+- Spring 2007~Now: I521, “Malware: Threat and Defense”, A graduate course, IUB
+- Spring 2006~2009: I231, Mathematic Foundations for Cybersecurity, A second-year undergraduate course, IUB
+- Spring 2005: I400, Introduction to Information Security, A third and forth year undergraduate course, IUB
+- Spring 2002: 18440, Internet Security, Teaching Assistant, An upper-level undergraduate and graduate course, Carnegie Mellon University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2016, Keynote at the 10th Central Area networking and Security Workshop (CANSec’16)
+- 2016, Invited seminar, Chinese University of Hong Kong 2016 Seminar talk, Northwestern University
+- 2016, Seminar talk, University of Southern California 2015 Seminar, Northeastern University
+- 2014, TRUST Security Seminar, University of California, Berkeley 2014 Invited talk. Narus Inc.
+- 2014, Seminar talk. Purdue University
+- 2013, Seminar talk. University of Maryland at College Park
+- 2013, Seminar talk. University of Texas at Austin
+- 2013, Invited talk. Chinese Academy of Sciences, China
+- 2012, Invited talk. Microsoft Faculty Summit
+- 2012, Invited talk. Computer Science Center, Shangdong Academy of Sciences, China
 
+<!---
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
