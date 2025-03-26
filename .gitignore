@@ -1,5 +1,4 @@
-_site/*
-!_site/index.html
+_site/
 push.sh
 .DS_Store
 
