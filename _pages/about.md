@@ -34,7 +34,7 @@ My research interest includes system security and AI security. I have published 
 -->
 
 
-# 🔥 News and Recent Reports
+# 🔥 Recent News Reports
 - *2024.02*: Analysis on Underground Markets for Large Language Models ( [TechPolicy](https://www.techpolicy.press/studying-black-market-for-large-language-models-researchers-find-openai-models-power-malicious-services/), [Lemonde](https://www.lemonde.fr/sciences/article/2024/02/13/intelligence-artificielle-les-chatbots-gangrenes-par-les-cybercriminels_6216174_1650684.html), [WSJ](https://www.wsj.com/articles/welcome-to-the-era-of-badgpts-a104afa8), [FastCompany](https://www.fastcompany.com/91184474/black-market-ai-chatbots-thriving) )
 - *2023.12*: Analysis on Information Leaks from Large Language Models ( [NYTime](https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html) )
 - *2022.12*: Winning Two Tracks of NeurIPS’22 Trojan Detection Challenge ( [NeurIPS](https://news.iu.edu/luddy/live/news/44191-luddy-school-gets-pair-of-wins-in-trojan-detection) )
